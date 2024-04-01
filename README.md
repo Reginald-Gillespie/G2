@@ -2,7 +2,7 @@
 
 This is the same as my other goose trollware repository, except it's harder to remove, I added a few memes and text files of my own, and added a random clicker mod.
 
-See here for the original program https://desktop-goose.en.uptodown.com/windows
+See [here](https://desktop-goose.en.uptodown.com/windows) for the original program and author. 
 
 
 The original program is just a goose that walks around your screen, sometimes leaving footmarks, opening text files or opening memes. You can typically close it with task manager or by holding escape. 
