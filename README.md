@@ -2,9 +2,12 @@
 
 This is the same as my other goose trollware repository, except it's harder to remove, I added a few memes and text files of my own, and added a random clicker mod.
 
---- 
-
 See here for the original program https://desktop-goose.en.uptodown.com/windows
+
+
+The original program is just a goose that walks around your screen, sometimes leaving footmarks, opening text files or opening memes. You can typically close it with task manager or by holding escape. 
+
+In my version, the gooes is launched using a VBScript to start it again if it is stopped. On top of that, it writes this script to an autostart location so that the duck starts up when you boot your computer. 
 
 ---
 
